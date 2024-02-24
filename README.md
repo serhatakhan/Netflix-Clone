@@ -31,10 +31,6 @@ This project is a movie catalog application that allows users to discover popula
     
 11. **Millify:** Utilized for making numbers more readable.
 
-## Deploy Site
-
-
-
 ## Screen Gif
 
 ![kayt1-ezgif com-video-to-gif-converter](https://github.com/serhatakhan/Netflix-Clone/assets/147662915/32a439cf-dde8-4341-a8f3-7bb315cdab99)
